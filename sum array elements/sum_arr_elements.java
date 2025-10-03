@@ -8,6 +8,7 @@ public class sum_arr_elements {
         int sum = 0;
         int[] numbers = new int[arr_length];
         for (int i = 0; i < arr_length; i++) {
+            System.out.println("element number " + (i + 1) + " : ");
             try {
                 numbers[i] = input.nextInt();
             } catch (Exception e) {
