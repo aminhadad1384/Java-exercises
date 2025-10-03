@@ -2,7 +2,7 @@ import java.util.*;
 
 public class factorial {
     // factoral metod
-    public static int factorial_calculating(int number) {
+    public static long factorial_calculating(int number) {
         int resault = 1;
         for (int i = 1; i <= number; i++) {
             resault *= i;
