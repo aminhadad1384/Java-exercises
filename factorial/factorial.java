@@ -13,7 +13,7 @@ public class factorial {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         // get number from user
-        System.out.println("enter the number you want to claculate that factorial :");
+        System.out.println("enter the number you want to claculate that factorial :>");
         int number = input.nextInt();
         System.out.println(number + "! = " + factorial_calculating(number));
         input.close();
