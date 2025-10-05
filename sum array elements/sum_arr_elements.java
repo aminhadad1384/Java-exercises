@@ -17,5 +17,6 @@ public class sum_arr_elements {
             sum += numbers[i];
         }
         System.out.println("sumation of elements of array : " + sum);
+        input.close();
     }
 }
