@@ -14,8 +14,6 @@ public class fiboo {
         System.out.println("please enter a number :");
         int number = input.nextInt();
         // show the resault
-        // System.out.println("number " + number + " of fibonacci series is " +
-        // fibonat(number));
         for (int i = 0; i < number; i++) {
             System.out.println("number " + i + " of fibonacci series is " + fibonat(i));
         }
