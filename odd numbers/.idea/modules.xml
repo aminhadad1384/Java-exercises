@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/odd numbers.iml" filepath="$PROJECT_DIR$/.idea/odd numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/target number.iml" filepath="$PROJECT_DIR$/.idea/target number.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
