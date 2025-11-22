@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Calculating the area of ​​various geometric shapes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/calculator app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/coin toss game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/factorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fibo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/guess number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leap year" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/palindrome word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/revert the word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum array elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/to do list" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

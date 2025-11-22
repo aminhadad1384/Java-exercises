@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-exercises.iml" filepath="$PROJECT_DIR$/Java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cristiii/cristiii.iml" filepath="$PROJECT_DIR$/cristiii/cristiii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odd numbers/odd numbers.iml" filepath="$PROJECT_DIR$/odd numbers/odd numbers.iml" />
+    </modules>
+  </component>
+</project>
